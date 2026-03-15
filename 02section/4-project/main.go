@@ -14,6 +14,4 @@ func main() {
 		fmt.Printf("%d,", primes[i])
 	}
 	fmt.Printf("\n")
-
-	f
 }
